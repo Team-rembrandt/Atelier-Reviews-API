@@ -1,4 +1,4 @@
-# Atelier Products API
+# Atelier Reviews API
 
 Lightweight, scalable microservice serving a growing [ecommerce front-end](https://github.com/FEC-Athena/Front-End-Capstone)
 
