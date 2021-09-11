@@ -10,6 +10,13 @@ Lightweight, scalable microservice serving a growing [ecommerce front-end](https
 - [Tech Stack](#tech-stack)
 - [System Architecture](#system-architecture)
 
+## Test results with Loader.io
+
+### Result with 30,000 requests per second using x2Large AWS instance as Nginx server
+![30k](https://res.cloudinary.com/de6ct75k5/image/upload/v1631389740/30k_tmaaj5.png)
+
+### Result with 8,000 requests per second using free tier micro AWS instance as Nginx server
+![9k](https://res.cloudinary.com/de6ct75k5/image/upload/v1631389739/8k_myfncq.png)
 ---
 
 ### Tech Stack
@@ -29,6 +36,8 @@ Lightweight, scalable microservice serving a growing [ecommerce front-end](https
 ![nginx](https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg)
 
 - NGINX enables load balancing HTTP traffic between between many routers
+
+![loader.io](https://res.cloudinary.com/de6ct75k5/image/upload/c_thumb,w_200,g_face/v1631389510/Screen_Shot_2021-09-11_at_12.44.56_PM_oy7do5.png)
 
 ---
 
