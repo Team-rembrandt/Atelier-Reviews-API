@@ -39,7 +39,7 @@ Lightweight, scalable microservice serving a growing [ecommerce front-end](https
 
 ![loader.io](https://res.cloudinary.com/de6ct75k5/image/upload/c_thumb,w_200,g_face/v1631389510/Screen_Shot_2021-09-11_at_12.44.56_PM_oy7do5.png)
 
--
+- Loader.io is used to stress test the performance of our system
 
 ---
 
