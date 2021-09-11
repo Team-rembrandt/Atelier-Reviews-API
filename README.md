@@ -1,6 +1,6 @@
 # Atelier Products API
 
-Lightweight, scalable microservice serving a growing [ecommerce front-end](https://github.com/RFP54-Helios/FEC)
+Lightweight, scalable microservice serving a growing [ecommerce front-end](https://github.com/FEC-Athena/Front-End-Capstone)
 
 ## Contents
 
@@ -34,4 +34,4 @@ Lightweight, scalable microservice serving a growing [ecommerce front-end](https
 
 ### System Architecture
 
-![System Architecture](docs/img/architecture.png)
+![System Architecture](https://res.cloudinary.com/de6ct75k5/image/upload/v1631387977/Screen_Shot_2021-09-11_at_12.19.25_PM_zg9cxr.png)
