@@ -16,7 +16,7 @@ Lightweight, scalable microservice serving a growing [ecommerce front-end](https
 ![30k](https://res.cloudinary.com/de6ct75k5/image/upload/v1631389740/30k_tmaaj5.png)
 
 #### Result with 8,000 requests per second using free tier micro AWS instance as Nginx server
-![9k](https://res.cloudinary.com/de6ct75k5/image/upload/v1631389739/8k_myfncq.png)
+![8k](https://res.cloudinary.com/de6ct75k5/image/upload/v1631389739/8k_myfncq.png)
 ---
 
 ### Tech Stack
