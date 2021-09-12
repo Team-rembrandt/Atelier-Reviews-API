@@ -21,19 +21,19 @@ Lightweight, scalable microservice serving a growing [ecommerce front-end](https
 
 ### Tech Stack
 
-![node](https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg)
+![node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 - Node.js provides an asynchronous event-driven runtime environment for building scalable network applications
 
-![express](https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg)
+![express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 - Express was chosen for it's minimal interface and flexible HTTP routing methods
 
-![postgres](https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg)
+![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 - PostreSQL is used here as a robust and stable open source database
 
-![nginx](https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg)
+![nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 - NGINX enables load balancing HTTP traffic between between many routers
 
